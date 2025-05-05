@@ -1,0 +1,5 @@
+# ambiente virtual
+.venv
+
+# pastas do cache do python
+__pycache__

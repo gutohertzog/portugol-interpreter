@@ -1,0 +1,14 @@
+T__0=1
+T__1=2
+OP_MULTIPLICACAO=3
+OP_DIVISAO=4
+OP_ADICAO=5
+OP_SUBTRACAO=6
+INTEIRO=7
+WS=8
+'('=1
+')'=2
+'*'=3
+'/'=4
+'+'=5
+'-'=6
