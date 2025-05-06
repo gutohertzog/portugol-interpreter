@@ -7,11 +7,8 @@ e este projeto adota o [Versionamento Semântico (inglês)](https://semver.org/s
 
 ## [Não Lançado]
 
-## [v0.0.1] - 2025-04-29
-
 ### Adicionado
 
-- Arquivo `CHANGELOG.md`.
 - Arquivo Portugol.g4, com apenas as operações básicas de `+`, `-`, `*`, `/` e `- unário`.
 - Arquivos PortugolLexico.g4 e PortugolSintatico.g4 (extraídos de [Portugol Studio](https://github.com/UNIVALI-LITE/Portugol-Studio/tree/master/core/src/main/antlr) e adaptados para o Python).
 - Adicionado o script para gerar a gramática automaticamente, `generate_grammar.sh`.
@@ -19,6 +16,12 @@ e este projeto adota o [Versionamento Semântico (inglês)](https://semver.org/s
 - Arquivo main.py.
 - Arquivo de requisitos.
 - Pasta grammar, com os códigos gerados para testes preliminares.
+
+## [v0.0.1] - 2025-04-29
+
+### Adicionado
+
+- Arquivo `CHANGELOG.md`.
 
 ### Modificado
 
